@@ -8,7 +8,7 @@
     <PlatformTarget>AnyCPU</PlatformTarget>
     <ApplicationIcon>App.ico</ApplicationIcon>
     <AssemblyOriginatorKeyFile>$(MSBuildThisFileDirectory)..\Common\InterimKey.snk</AssemblyOriginatorKeyFile>
-    <SignAssembly>true</SignAssembly>
+    <SignAssembly>False</SignAssembly>
     <OutputType>Exe</OutputType>
     <TargetFramework>net452</TargetFramework>
     <DefineConstants>$(DefineConstants);INTERNAL;CROSSPLATFORM;V2</DefineConstants>
